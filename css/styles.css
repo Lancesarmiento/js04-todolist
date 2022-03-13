@@ -1,0 +1,49 @@
+body {
+    background-color: green;
+    text-align: center;	
+}
+
+.list-group {
+    font-size: 100%;
+    font-family: "Calibri";
+}
+
+.list-item{
+    background-color: orange;
+    border: -12px;
+    padding: 12px;
+}
+
+header {
+    margin-top: 8%;
+    background-color:red;
+    padding: 12px;
+    border: -12px;
+    font-size: 32px;
+}
+
+.search {
+    padding: 12px;
+    border: -12px;
+    background-color: blue;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.clear{
+    background-color: plum;
+    color: white;
+    border-radius: 4px;
+    width: 107px;
+    padding: 12px; 
+    border: -12px;
+    font-weight: bold;
+}
